@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Scene
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 104
+  controlID: 75
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -226,7 +226,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 105
+  controlID: 76
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -251,7 +251,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 106
+  controlID: 77
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -317,22 +317,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets/Prefabs
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scenes
+  - Assets/Prefabs
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\Pere_Ramis\pere-ramis-tema1\Mi primer proyecto
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: e03e0000
-    m_LastClickedID: 16096
-    m_ExpandedIDs: 00000000d63e0000283f000000ca9a3b
+    m_SelectedIDs: 1e400000
+    m_LastClickedID: 16414
+    m_ExpandedIDs: 00000000084000000a40000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -360,7 +360,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000d63e0000
+    m_ExpandedIDs: 00000000084000000a400000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -481,9 +481,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 4272feff5498feffb69dfeff86a9feffb6f8feffc8fcfeff1c23ffff5426ffffc42afffff82fffff2e30ffffa230ffffc03fffff066fffff54fbffff423d000006490000
+      m_SelectedIDs: d4f5ffff
+      m_LastClickedID: -2604
+      m_ExpandedIDs: d6f5ffff2ef9ffff54fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -543,9 +543,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -1.0312335, y: 0.19689128, z: -15.976308}
+    m_Target: {x: -2.6421967, y: 1.3135343, z: -14.654735}
     speed: 2
-    m_Value: {x: -1.2248964, y: 1.1476498, z: -1.2898171}
+    m_Value: {x: -2.6421967, y: 1.3135343, z: -14.654735}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -592,20 +592,20 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.0013919141, y: 0.99828744, z: -0.03778452, w: 0.048818555}
+    m_Target: {x: 0.000057137342, y: 0.9996247, z: -0.025816256, w: 0.021854486}
     speed: 2
-    m_Value: {x: -0.008965251, y: 0.9910715, z: -0.107726105, w: -0.07805151}
+    m_Value: {x: 0.000095842785, y: 0.9993941, z: -0.025811061, w: 0.023349304}
   m_Size:
     m_Target: 10.704006
     speed: 2
-    m_Value: 2.3320508
+    m_Value: 10.704006
   m_Ortho:
     m_Target: 0
     speed: 2
     m_Value: 0
   m_CameraSettings:
-    m_Speed: 1.5202404
-    m_SpeedNormalized: 0.7600002
+    m_Speed: 2
+    m_SpeedNormalized: 1
     m_SpeedMin: 0.001
     m_SpeedMax: 2
     m_EasingEnabled: 1
